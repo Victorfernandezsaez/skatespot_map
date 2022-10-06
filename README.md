@@ -1,0 +1,1 @@
+# skatespot_map
